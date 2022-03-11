@@ -6,9 +6,9 @@ export default function Contain() {
   return (
     
         <Container fluid>
-
-<Row>
-    <Col>
+<div className="kolom">
+    <Row>
+    <Col md={6}>
     1 of 3
     </Col>
     <Col>
@@ -18,6 +18,8 @@ export default function Contain() {
     3 of 3
     </Col>
 </Row>
+</div>
+
 
         </Container>
    

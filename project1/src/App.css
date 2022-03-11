@@ -4,5 +4,16 @@
 }
 .kolom{
   background-color: blue;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+justify-content: space-around;
+height: 1800px;
+}
+.aos-flip{
   width: 200px;
+  height: 300px;
+  background-color: aquamarine;
+  position: absolute;
+  left: 200px;
 }

@@ -11,8 +11,63 @@ export default function Contain() {
   return (
     
         <Container fluid="md">
-<div className="kolom">
+<div className="col-5">
     <Row>
+    <Col md={6}>
+    1 of 3
+    </Col>
+    <Col>
+    2 of 3
+    </Col>
+    <Col>
+    3 of 3
+    </Col>
+</Row>
+<Row>
+    <Col md={6}>
+    1 of 3
+    </Col>
+    <Col>
+    2 of 3
+    </Col>
+    <Col>
+    3 of 3
+    </Col>
+</Row>
+<Row>
+    <Col md={6}>
+    1 of 3
+    </Col>
+    <Col>
+    2 of 3
+    </Col>
+    <Col>
+    3 of 3
+    </Col>
+</Row>
+<Row>
+    <Col md={6}>
+    1 of 3
+    </Col>
+    <Col>
+    2 of 3
+    </Col>
+    <Col>
+    3 of 3
+    </Col>
+</Row>
+<Row>
+    <Col md={6}>
+    1 of 3
+    </Col>
+    <Col>
+    2 of 3
+    </Col>
+    <Col>
+    3 of 3
+    </Col>
+</Row>
+<Row>
     <Col md={6}>
     1 of 3
     </Col>
